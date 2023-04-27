@@ -6,10 +6,6 @@
        And customers know about the farmers from whom they are buying.
        Email is sent to both Farmer and customer about the order made by the customer.
 
-# Look and Feel
-       
-      ![image](https://user-images.githubusercontent.com/102860861/234294731-0a1af193-d6ce-46a9-b531-a47cea8c9535.png)
-
        
  # Farmers
  
